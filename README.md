@@ -12,17 +12,20 @@ Program ini terdiri dari dua kelas, kelas **Mahasiswa** dan **Menu**. Kelas **Ma
 - nilai
 - gender
 - usia
-Serta terdapat beberapa method getter & setter.
+
+Serta terdapat beberapa method getter & setter. <br />
 Sedangkan kelas **Menu** merupakan kelas utama sehingga program ini dapat berjalan, di dalamnya terdapat beberapa method seperti untuk menambah, mengupdate, mendelete dan lain-lain.
 
 # Penjelasan Alur
-Ketika program ini di eksekusi pertama kali akan muncul seperti gambar diatas di mana kita dapat melakukan apapun sesuai fitur yang terdapat di program tersebut.
+Ketika program ini di eksekusi pertama kali akan muncul seperti gambar diatas di mana kita dapat melakukan apapun sesuai fitur yang terdapat di program tersebut. <br />
 **add**
-Ketika sudah mengisi seluruh field dari form dan tombol `add` di klik maka data akan tersedia di table, dan ketika `cancel` data tidak akan di input, form kembali kosong.
+Ketika sudah mengisi seluruh field dari form dan tombol `add` di klik maka data akan tersedia di table, dan ketika `cancel` data tidak akan di input, form kembali kosong. <br />
+
 ![add](https://user-images.githubusercontent.com/100661834/226827019-6173a5fb-38f2-496b-b891-73573e256e72.png)
 
 **Update**
 Pertama pilih data mana yang tersedia di table, yang akan di update, lalu isi ulang form untuk mengupdate nya, dan klik `update`.
+
 ![update](https://user-images.githubusercontent.com/100661834/226828277-8b654c47-ec0b-4dc3-a110-7502d90894d7.png)
 > Data dengan nama Luffy yang sebelumnya nilai C dan usia 21, telah di update menjadi nilai A dan usia 22
 
